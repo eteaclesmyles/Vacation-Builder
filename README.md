@@ -1,5 +1,5 @@
-# VacationBuilder_April21
-Latest VB Build with Eli, Maria, Craig, Paul, Des parts integrated. 
+# Vacation-Builder
+Latest VB Build with Elijah Lozano, Maria, Craig, Paul, & Desiree parts integrated. 
 ------------------------------------------------------------------------
 Name of Project: 
 	Vacation Builder
@@ -15,7 +15,7 @@ Full name of all team members:
 	Paul Woody
 
 Short description:  
-	The application will be a vacation builder that will allow users to choose a Vacation Type, a Destination based on that type, an array of hotels/rooming options, and most importantly an itinerary of activities and food options.
+	The application is a vacation itinerary builder that allows users to choose a Vacation Type, a Destination based on that type, an array of hotels/rooming options, and most importantly an list of activities. The application outputs a summary of user choices with their respective prices alongside a total estimated vacation budget.
 
 Known Bugs: 
-	if you delete the date from the date picker and try to run it, it will crash.
+	If you delete the date from the date picker and try to run it, it will crash.
